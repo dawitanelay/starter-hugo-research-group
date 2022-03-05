@@ -1,21 +1,19 @@
 ---
 # Display name
-title: 吳恩達
+title: Dawit blog
 
 # Username (this should match the folder name)
 authors:
-- 吳恩達
+- Dawit .M Anelay
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master of Artificial Intelligence student
 
 # Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -27,9 +25,6 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
